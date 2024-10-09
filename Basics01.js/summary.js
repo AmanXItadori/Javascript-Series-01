@@ -29,3 +29,8 @@
 const isloggedin= Symbol('123')
 const anotherid= Symbol('123')
 console.log(isloggedin==anotherid)
+//++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+//stack (primitive), Heap(Non- primitive)
+//
+
